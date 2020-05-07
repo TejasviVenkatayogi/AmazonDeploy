@@ -64,7 +64,7 @@ def clean_text(sentence):
 
 @app.route('/')
 def hello_world():
-    return 'Hello World!'
+    return 'Hello Guys!'
 
 
 @app.route('/index')
